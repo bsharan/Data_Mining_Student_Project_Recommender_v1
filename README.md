@@ -1,4 +1,4 @@
-# 💡 Project Idea Recommender (AI-powered)
+# 💡 Project Idea Recommender for Students of Data Mining
 
 This is a simple, beginner-friendly NLP project recommender built using:
 - ✅ TF-IDF vectorization
