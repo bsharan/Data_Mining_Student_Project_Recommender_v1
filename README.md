@@ -1,6 +1,6 @@
 # 💡 Project Idea Recommender for Students of Data Mining
 
-This is a simple, beginner-friendly NLP project recommender built using:
+This is a simple, beginner-friendly Data Mining project recommender built using:
 - ✅ TF-IDF vectorization
 - ✅ Cosine similarity
 - ✅ Gradio UI for easy access
