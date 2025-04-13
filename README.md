@@ -1,4 +1,5 @@
 # 💡 Project Idea Recommender for Students of Data Mining
+Here is my app ruuning on Hugginface (Check it out!): https://huggingface.co/spaces/sharan1/project-recommender-v1
 
 This is a simple, beginner-friendly Data Mining project recommender built using:
 - ✅ TF-IDF vectorization
